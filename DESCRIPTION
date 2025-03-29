@@ -2,11 +2,10 @@ Package: LikertEZ
 Type: Package
 Title: What the Package Does (Title Case)
 Version: 0.1.0
-Author: Who wrote it
-Maintainer: The package maintainer <yourself@somewhere.net>
-Description: More about what it does (maybe more than one line)
-    Use four spaces when indenting paragraphs within the Description.
-License: What license is it under?
+Author: Mohammad Mollazehi <mmolazehi@lu.edu.qa>
+Maintainer: Mohammad Mollazehi <mmolazehi@lu.edu.qa>
+Description: An R package for analyzing Likert scale and ordinal survey data.
+License: MIT + file LICENSE
 Encoding: UTF-8
 LazyData: true
 RoxygenNote: 7.3.2
